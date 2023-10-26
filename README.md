@@ -14,4 +14,4 @@ For those who are curious, I'm adding the dynamic chart they use here.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![OWID Covid Data](https://github.com/ardazlata/covid-mapping/blob/main/img/coronavirus-data-explorer.png)
