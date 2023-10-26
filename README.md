@@ -12,6 +12,11 @@ Feel free to extend your support by connecting with me.
 [Coronavirus (COVID-19) Cases](https://ourworldindata.org/covid-cases)
 
 
-#### For those who are curious, I'm adding the dynamic chart they use here.
+For those who are curious, I'm adding the dynamic chart they use here.
 
 ![OWID Covid Data](https://github.com/ardazlata/covid-mapping/blob/main/img/coronavirus-data-explorer.png)
+
+
+### My Tableau Visualization
+
+![My Portfolio](https://github.com/ardazlata/covid-mapping/blob/main/img/Dashboard%201.png)
